@@ -5,7 +5,7 @@
 1. from kakaopy import kakaopy
 
 ```py
-import kakaopy
+from kakaopy import kakaopy
 ```
 
 2. set your REST_API_KEY
