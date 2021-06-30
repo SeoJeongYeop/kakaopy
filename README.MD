@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. import kakaopy
+1. from kakaopy import kakaopy
 
 ```py
 import kakaopy
