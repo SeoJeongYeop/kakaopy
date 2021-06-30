@@ -39,7 +39,9 @@ from kakaopy import kakaopy
 kakaopy.setHeader('YOUR_REST_API_KEY')
 ```
 
-3. make object (e.g. doc, vedio, image, book, blog, cafe, etc)
+3. make object 
+
+e.g. doc, video, image, book, blog, cafe
 
 ```
 doc1 = kakaopy.doc()
@@ -58,6 +60,7 @@ More information can be found through object.help() function.
 ```py
 doc1.help()
 ```
+![help function](https://user-images.githubusercontent.com/41911523/123953929-c243ed80-d9e2-11eb-8d75-343b1fbc7e8e.PNG)
 
 5. object.search(query): search query and return search results in the form of json.
 
